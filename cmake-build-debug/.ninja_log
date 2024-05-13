@@ -1,0 +1,9 @@
+# ninja log v5
+1	158	7373040634073830	CMakeFiles/WordCount.dir/main.c.obj	f69c89e0f1aefe9e
+161	489	7373040636314905	WordCount.exe	3a415f26ad98d3d3
+2	328	7373042264420540	CMakeFiles/WordCount.dir/main.c.obj	f69c89e0f1aefe9e
+329	546	7373042266923054	WordCount.exe	3a415f26ad98d3d3
+2	214	7373043356522688	CMakeFiles/WordCount.dir/main.c.obj	f69c89e0f1aefe9e
+215	405	7373043358904839	WordCount.exe	3a415f26ad98d3d3
+2	176	7373059577079345	CMakeFiles/WordCount.dir/main.c.obj	f69c89e0f1aefe9e
+177	447	7373059579154195	WordCount.exe	3a415f26ad98d3d3
